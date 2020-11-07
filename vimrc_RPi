@@ -30,6 +30,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
 Plugin 'jnurmine/Zenburn'
 Plugin 'altercation/vim-colors-solarized'
+Plugin 'Yggdroot/indentLine'
 "Plugin 'Valloric/YouCompleteMe', { 'commit':'d98f896' }
 Plugin 'sheerun/vim-polyglot'
 "Plugin 'jiangmiao/auto-pairs'
