@@ -1,3 +1,4 @@
+imap jj <ESC>
 set nocompatible              " required
 filetype off                  " required
 set number
