@@ -2,7 +2,7 @@ imap jj <ESC>
 set nocompatible              " required
 filetype off                  " required
 set number
-colorscheme gruvbox
+"colorscheme gruvbox
 set background=dark
 set t_Co=256
 "let g:gruvbox_italic=1
@@ -30,6 +30,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
 Plugin 'jnurmine/Zenburn'
 Plugin 'altercation/vim-colors-solarized'
+Plugin 'Yggdroot/indentLine'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'sheerun/vim-polyglot'
 "Plugin 'jiangmiao/auto-pairs'
