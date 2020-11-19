@@ -8,6 +8,7 @@ set t_Co=256
 "let g:gruvbox_italic=1
 set visualbell
 set laststatus=2
+set colorcolumn=80
 
 
 " set the runtime path to include Vundle and initialize
