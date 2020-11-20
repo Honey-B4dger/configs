@@ -1,3 +1,6 @@
+let &t_ZH="\e[3m"
+let &t_ZR="\e[23m"
+let g:gruvbox_italic=1
 imap jj <ESC>
 set nocompatible              " required
 filetype off                  " required
