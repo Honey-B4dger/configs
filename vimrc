@@ -12,6 +12,7 @@ set t_Co=256
 set visualbell
 set laststatus=2
 set colorcolumn=80
+set clipboard=unnamed
 
 
 " set the runtime path to include Vundle and initialize
