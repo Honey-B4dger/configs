@@ -14,6 +14,9 @@ set laststatus=2
 set colorcolumn=80
 set clipboard=unnamed
 
+let g:syntastic_python_checkers = ['python']
+let g:syntastic_python_python_exec = 'python3'
+
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
