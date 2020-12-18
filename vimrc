@@ -12,7 +12,7 @@ set t_Co=256
 set visualbell
 set laststatus=2
 set colorcolumn=80
-set clipboard=unnamed
+"set clipboard=unnamed
 
 let g:syntastic_python_checkers = ['python']
 let g:syntastic_python_python_exec = 'python3'
